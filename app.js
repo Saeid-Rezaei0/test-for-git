@@ -5,3 +5,6 @@ const  isLogin = (username) => {
      return false;
   }
 }
+const newuser = (user) => {
+return true
+}
