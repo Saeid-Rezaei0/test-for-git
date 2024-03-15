@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: 20%;
+    font-weight: 600;
+    
+}
